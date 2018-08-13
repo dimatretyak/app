@@ -19,7 +19,7 @@
     },
     "style": {
       "button": {
-        "backgroundColor": 'red'
+        "backgroundColor": "red"
       }
     },
     "text": "Рассмотреть условия"
