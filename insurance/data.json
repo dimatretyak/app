@@ -11,10 +11,6 @@
     "link":
       "https://go.cityclub.finance/click-EQK60M7Y-HEBQCD3I?bt=25&tl=1&sa=finance",
     "image": "https://www.in-touch.ru/img/logo.png",
-    "size": {
-      "width": 200,
-      "height": 32
-    },
     "text": "Рассчитать полюс"
   },
   {
@@ -29,6 +25,10 @@
     "link":
       "https://go.cityclub.finance/click-IQK60LYD-HFDQCB8G?bt=25&tl=1&sa=finance",
     "image": "https://pp.userapi.com/c837134/v837134182/6d7c3/2kw_YPyJ9DQ.jpg",
+    "size": {
+      "width": 200,
+      "height": 32
+    },
     "style": {
       "button": {
         "backgroundColor": "red"
