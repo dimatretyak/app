@@ -23,6 +23,9 @@
       },
       "item": {
         "borderColor": "red"
+      },
+      "paragraph": {
+        "borderColor": "red"
       }
     },
     "text": "Рассмотреть условия"
