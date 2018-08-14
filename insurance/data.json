@@ -20,6 +20,9 @@
     "style": {
       "button": {
         "backgroundColor": "red"
+      },
+      "item": {
+        "borderColor": "red"
       }
     },
     "text": "Рассмотреть условия"
