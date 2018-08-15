@@ -14,7 +14,8 @@
       "width": 230,
       "height": 50
     },
-    "image": "https://raw.githubusercontent.com/dimatretyak/app/master/insurance/logo/renessans.jpg",
+    "image":
+      "https://raw.githubusercontent.com/dimatretyak/app/master/insurance/logo/renessans.jpg",
     "text": "Рассчитать полюс"
   },
   {
@@ -31,7 +32,8 @@
       "width": 300,
       "height": 150
     },
-    "image": "https://raw.githubusercontent.com/dimatretyak/app/master/insurance/logo/sberbank.png",
+    "image":
+      "https://raw.githubusercontent.com/dimatretyak/app/master/insurance/logo/sberbank.png",
     "text": "Узнать стоимость страховки"
   },
   {
@@ -48,7 +50,8 @@
       "width": 350,
       "height": 72
     },
-    "image": "https://raw.githubusercontent.com/dimatretyak/app/master/insurance/logo/vtb.png",
+    "image":
+      "https://raw.githubusercontent.com/dimatretyak/app/master/insurance/logo/vtb.png",
     "text": "Рассчитать стоимость страховки"
   },
   {
@@ -57,7 +60,7 @@
       "Официальный представитель 18 ведущих страховых компаний",
       "Гарантированно точные и выгодные цены, без комиссий и скрытых платежей",
       "Вы получаете оригинальный полис, который принимается всеми визовыми центрами",
-      "Служба поддержки всегда поможет по телефону, в чате или почте",
+      "Служба поддержки всегда поможет по телефону, в чате или почте"
     ],
     "link":
       "https://go.cityclub.finance/click-EQK60NVX-HFDQCGBA?bt=25&tl=1&sa=insurancehealth",
@@ -65,7 +68,8 @@
       "width": 350,
       "height": 72
     },
-    "image": "https://raw.githubusercontent.com/dimatretyak/app/master/insurance/logo/sravni.png",
+    "image":
+      "https://raw.githubusercontent.com/dimatretyak/app/master/insurance/logo/sravni.png",
     "text": "Узнать стоимость страховки"
   }
 ]
