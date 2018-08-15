@@ -1,24 +1,5 @@
 [
   {
-    "title": "Ренессанс Страхование",
-    "description": [
-      "Онлайн-страхование для выезжающих за рубеж туристов",
-      "Только лучшие страховые программы",
-      "Круглосуточная поддержка",
-      "Оформление полюса за 5 минут",
-      "Узнать точную цену полиса для путешествующих и купить туристическую страховку вы можете онлайн в калькуляторе по ссылке снизу"
-    ],
-    "link":
-      "https://go.cityclub.finance/click-GQK60OAP-RMIQCHEY?bt=25&tl=1&sa=insurancehealth",
-    "size": {
-      "width": 230,
-      "height": 50
-    },
-    "image":
-      "https://raw.githubusercontent.com/dimatretyak/app/master/insurance/logo/renessans.jpg",
-    "text": "Рассчитать полюс"
-  },
-  {
     "title": "Сбербанк: Страхование ВЗР",
     "description": [
       "ВЗР для выезда за границу",
@@ -71,5 +52,24 @@
     "image":
       "https://raw.githubusercontent.com/dimatretyak/app/master/insurance/logo/sravni.png",
     "text": "Узнать стоимость страховки"
+  },
+  {
+    "title": "Ренессанс Страхование",
+    "description": [
+      "Онлайн-страхование для выезжающих за рубеж туристов",
+      "Только лучшие страховые программы",
+      "Круглосуточная поддержка",
+      "Оформление полюса за 5 минут",
+      "Узнать точную цену полиса для путешествующих и купить туристическую страховку вы можете онлайн в калькуляторе по ссылке снизу"
+    ],
+    "link":
+      "https://go.cityclub.finance/click-GQK60OAP-RMIQCHEY?bt=25&tl=1&sa=insurancehealth",
+    "size": {
+      "width": 230,
+      "height": 50
+    },
+    "image":
+      "https://raw.githubusercontent.com/dimatretyak/app/master/insurance/logo/renessans.jpg",
+    "text": "Рассчитать полюс"
   }
 ]
