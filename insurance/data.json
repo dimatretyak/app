@@ -1,6 +1,6 @@
 [
   {
-    "title": "InTouch: страхование ВЗР",
+    "title": "Ренессанс Страхование",
     "description": [
       "Онлайн-страхование для выезжающих за рубеж туристов",
       "Только лучшие страховые программы",
@@ -9,110 +9,63 @@
       "Узнать точную цену полиса для путешествующих и купить туристическую страховку вы можете онлайн в калькуляторе по ссылке снизу"
     ],
     "link":
-      "https://go.cityclub.finance/click-EQK60M7Y-HEBQCD3I?bt=25&tl=1&sa=finance",
-    "image": "https://raw.githubusercontent.com/dimatretyak/app/master/insurance/logo/in-touch.png",
+      "https://go.cityclub.finance/click-GQK60OAP-RMIQCHEY?bt=25&tl=1&sa=insurancehealth",
     "size": {
       "width": 230,
       "height": 50
     },
-    "text": "РАССЧИТАТЬ ПОЛЮС"
-  },
-  {
-    "title": "InTouch: страхование ВЗР",
-    "description": [
-      "Онлайн-страхование для выезжающих за рубеж туристов",
-      "Только лучшие страховые программы",
-      "Круглосуточная поддержка",
-      "Оформление полюса за 5 минут",
-      "Узнать точную цену полиса для путешествующих и купить туристическую страховку вы можете онлайн в калькуляторе по ссылке снизу"
-    ],
-    "link":
-      "https://go.cityclub.finance/click-EQK60M7Y-HEBQCD3I?bt=25&tl=1&sa=finance",
-    "image": "https://www.in-touch.ru/img/logo.png",
+    "image": "https://raw.githubusercontent.com/dimatretyak/app/master/insurance/logo/renessans.png",
     "text": "Рассчитать полюс"
   },
   {
-    "title": "Первый онлайн заём под 0% до 15 дней",
+    "title": "Сбербанк: Страхование ВЗР",
     "description": [
-      "Сумма займа: от 10 000 до 70 000 рублей",
-      "Срок займа: от 5 дней до 18 недель",
-      "Cтавка от 0,76% до 1,85%",
-      "Срок рассмотрения всех заявок - 10 минут",
-      "Мгновенное получение денег наличными, на карту или банковский счёт"
+      "ВЗР для выезда за границу",
+      "Различные варианты готовых страховок",
+      "Скидки при оформлении страховки",
+      "Точная стоимость полиса доступна по клику ссылке снизу"
     ],
     "link":
-      "https://go.cityclub.finance/click-IQK60LYD-HFDQCB8G?bt=25&tl=1&sa=finance",
-    "image": "https://pp.userapi.com/c837134/v837134182/6d7c3/2kw_YPyJ9DQ.jpg",
+      "https://go.cityclub.finance/click-GQK60OAP-RMIQCHEY?bt=25&tl=1&sa=insurancehealth",
     "size": {
-      "width": 200,
-      "height": 32
+      "width": 300,
+      "height": 150
     },
-    "style": {
-      "button": {
-        "backgroundColor": "red"
-      },
-      "item": {
-        "borderColor": "red"
-      },
-      "paragraph": {
-        "borderColor": "red"
-      },
-      "title": {
-        "color": "red"
-      }
-    }
+    "image": "https://raw.githubusercontent.com/dimatretyak/app/master/insurance/logo/sberbank.png",
+    "text": "Узнать стоимость страховки"
   },
   {
-    "title": "До 100 000 рублей до 5 месяцев",
+    "title": "ВТБ Страхование",
     "description": [
-      "Сервис по предоставлению займов в онлайн-режиме без поручителей и залогов",
-      "Быстрый способ получить необходимую сумму на банковскую карту в течение 15 минут после подачи заявки",
-      "Минус 50% по ставке на заём",
-      "Самые низкие процентные ставки",
-      "Работаем по всей России. 24/7.",
-      "Cпециальные условия для постоянных клиентов",
-      "Удобные способы погашения"
+      "Полис принимается всеми визовыми центрами и посольствами иностранных государств для оформления визы",
+      "Русскоязычные операторы организуют вызов врача или госпитализацию в случае необходимости",
+      "Возможность оформления дополнительных опций к страховке",
+      "Точная стоимость страховки доступна по клику ссылке снизу"
     ],
     "link":
-      "https://go.cityclub.finance/click-DQK60KUY-NJFQB9GU?bt=25&tl=1&sa=finance",
-    "image": "https://pp.userapi.com/c837134/v837134182/6d7c3/2kw_YPyJ9DQ.jpg"
+      "https://go.cityclub.finance/click-BQK60NXR-NKHQCGRM?bt=25&tl=1&sa=insurancehealth",
+    "size": {
+      "width": 350,
+      "height": 72
+    },
+    "image": "https://raw.githubusercontent.com/dimatretyak/app/master/insurance/logo/vtb.png",
+    "text": "Рассчитать стоимость страховки"
   },
   {
-    "title": "Заем под 0% на 30 дней",
+    "title": "Сравни.ру: туристическая страховка",
     "description": [
-      "Первый заем без процентов* до 15 000 руб. для всех!",
-      "Время рассмотрения заявки: от 15 минут",
-      "Заем полностью оформляется онлайн-режиме, не требуется встречи с представителем компании",
-      "На карту, QIWI кошелек или наличными",
-      "При необходимости вы можете легко перенести срок возврата на 30 дней"
+      "Официальный представитель 18 ведущих страховых компаний",
+      "Гарантированно точные и выгодные цены, без комиссий и скрытых платежей",
+      "Вы получаете оригинальный полис, который принимается всеми визовыми центрами",
+      "Служба поддержки всегда поможет по телефону, в чате или почте",
     ],
     "link":
-      "https://go.cityclub.finance/click-HQK60MNV-RMIQCCFL?bt=25&tl=1&sa=finance",
-    "image": "https://pp.userapi.com/c837134/v837134182/6d7c3/2kw_YPyJ9DQ.jpg"
-  },
-  {
-    "title": "Мгновенный займ - без проверок и отказов",
-    "description": [
-      "Перечисление денег на любой счет",
-      "Без справок и поручителей",
-      "Заполните анкету, и через 15 минут деньги у вас на карте!",
-      "Быстрые займы онлайн от 0,65% в день до 100 000 рублей"
-    ],
-    "link":
-      "https://go.cityclub.finance/click-BQK60NN6-RMIQCF06?bt=25&tl=1&sa=finance",
-    "image": "https://pp.userapi.com/c837134/v837134182/6d7c3/2kw_YPyJ9DQ.jpg"
-  },
-  {
-    "title":
-      "Моментальное онлайн-кредитование суммой до 15 000 рублей и сроком до 30 дней",
-    "description": [
-      "Денежные средства перечисляются на банковскую карту заемщика в течение 30 минут после рассмотрения заявки",
-      "Сервис также предлагает оформление срочных займов без поручителей в течение 5 минут в день",
-      "Круглосуточная работа техподдержки",
-      "Выгодные акции и постоянное расширение возможностей"
-    ],
-    "link":
-      "https://go.cityclub.finance/click-EQK60LNK-HFDQCGTG?bt=25&tl=1&sa=finance",
-    "image": "https://pp.userapi.com/c837134/v837134182/6d7c3/2kw_YPyJ9DQ.jpg"
+      "https://go.cityclub.finance/click-EQK60NVX-HFDQCGBA?bt=25&tl=1&sa=insurancehealth",
+    "size": {
+      "width": 350,
+      "height": 72
+    },
+    "image": "https://raw.githubusercontent.com/dimatretyak/app/master/insurance/logo/sravni.png",
+    "text": "Узнать стоимость страховки"
   }
 ]
